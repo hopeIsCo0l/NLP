@@ -33,5 +33,3 @@ In this project, i tried to explore statistical language modeling using Amharic 
 - Preprocessing (like stopword removal) and proper feature selection significantly influence results.
 
 ---
-
-📌 This concludes our NLP Assignment 1.
